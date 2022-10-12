@@ -12,5 +12,5 @@ Dataset: https://github.com/owid/covid-19-data/blob/master/public/data/owid-covi
  Here you can see a plot that shows the total cases per million on 1st November 2020.<br>
  
 <div align=center>
-  <img src="./assets/1.PNG" width="600" height="250" align="center"/>
+  <img src="./assets/1.PNG" width="600" height="250"/>
 </div>
